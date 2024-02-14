@@ -31,5 +31,5 @@ setInterval(() => {
 
 const dateBtn = document.getElementById("date_btn")
 dateBtn.addEventListener('click', () => {
-  window.location = "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm9sM3FlbDlrNjA1OGhsM3JkazYxc2p1b20gcGF0ZWxhYmhpMTA2OTlAbQ&tmsrc=patelabhi10699%40gmail.com";
+  window.location = "https://calendar.google.com/calendar/u/0/r/eventedit/copy/Mm9sM3FlbDlrNjA1OGhsM3JkazYxc2p1b20gcGF0ZWxhYmhpMTA2OTlAbQ/cGF0ZWxhYmhpMTA2OTlAZ21haWwuY29t";
 })
